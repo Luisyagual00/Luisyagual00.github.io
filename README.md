@@ -1,28 +1,14 @@
-# Mi CV
-Este es mi repositorio donde publicaré mi CV.
+# Mi Proyecto de Curriculum Vitae
 
-LUIS FERNANDO YAGUAL MALAVE
-Curriculum Vitae
+Este repositorio contiene mi Curriculum Vitae en formato HTML y CSS.  
+Aquí presento mi información profesional, experiencia laboral y habilidades.  
 
-DATOS PERSONALES
-Nacionalidad: Ecuatoriano
-Cedula de Identidad: 0931997324
-Fecha de Nacimiento: 
-28 de JULIO 2000
-Licencia de Conducir: Tipo “B”
-Edad: 24 Años
-Lugar de Nacimiento: 
-Guayaquil 
-Estado Civil: Soltero
+## Cómo verlo
+Para visualizar el CV, simplemente abre el archivo `index.html` en cualquier navegador web.
 
-EDUCACION
-Unidad Educativa Republica de Francia
-Primaria
+## Tecnologías utilizadas
+- HTML
+- CSS
+- GitHub Pages (para publicar)
 
-Unidad Educativa Jose Joaquin de Olmedo
-Bachiller En Ciencias
-
-EXPERIENCIA LABORAL
-FUMICONTROL Tiempos 2 AÑOS Cargo (OPERADOR) 
-CALLE PARIS Tiempos 2 AÑOS Cargo (BODEGUERO) 
-DECORACIONES DAOZ Tiempos 1 AÑOS Cargo (BODEGUERO) 
+¡Gracias por visitar mi repositorio!
